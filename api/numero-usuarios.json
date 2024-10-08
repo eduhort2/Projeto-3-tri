@@ -1,8 +1,10 @@
 {
-    "Facebook": 3049,
-    "Youtube": 2491,
-    "WhatsApp": 2000,
-    "Instagram": 2000,
-    "Tiktok": 1562,
-    "WeChat":1336
+    "Comédia": 15,
+    "Romance": 7,
+    "Ação": 5,
+    "Terror": 4,
+    "Suspense": 2,
+    "Drama": 2,
+    "Documentario": 2,
+    "Ficção":1 
 }
